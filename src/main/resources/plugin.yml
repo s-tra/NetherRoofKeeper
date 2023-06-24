@@ -1,0 +1,4 @@
+name: NetherRoofKeeper
+version: '${project.version}'
+main: online.vivaseikatsustra.netherroofkeeper.NetherRoofKeeper
+api-version: 1.19
